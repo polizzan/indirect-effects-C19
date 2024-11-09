@@ -1,3 +1,7 @@
+[![doi](https://img.shields.io/badge/DOI-10.17605/OSF.IO/89NZK-blue)][doi]
+
+[doi]: https://doi.org/10.17605/OSF.IO/89NZK
+
 # Indirect Effects of the COVID-19 Pandemic: A Cause-of-Death Analysis of Life Expectancy Changes in 24 Countries, 2015 to 2022
 
 ## Repository Purpose
@@ -11,10 +15,6 @@ hereafter *our manuscript.*
 The repository **indirect-effects-C19** contains two folders:
 
 ### 1. data
-[![doi](https://img.shields.io/badge/DOI-10.17605/OSF.IO/89NZK-blue)][doi]
-
-[doi]: https://doi.org/10.17605/OSF.IO/89NZK
-
 This folder is used to store necessary data files. To start running our analysis files described below, the **data** folder must at least hold the data file `harmonized_all.rds` containing the mortality information underlying our decomposition results. The repository [le_cod_datapreparation](https://doi.org/10.17605/OSF.IO/W8XFT) outlines how this data file can be prepared.
 
 ### 2. scripts
