@@ -15,7 +15,7 @@ hereafter *our manuscript.*
 The repository **indirect-effects-C19** contains two folders:
 
 ### 1. data
-This folder is used to store necessary data files. To start running our analysis files described below, the **data** folder must at least hold the data file `harmonized_all.rds` containing the mortality information underlying our decomposition results. The repository [le_cod_datapreparation](https://doi.org/10.17605/OSF.IO/W8XFT) outlines how this data file can be prepared.
+This folder is used to store necessary data files. To start running our analysis files described below, the **data** folder must at least hold the data file `harmonized_all.rds` containing the mortality information underlying our decomposition results. The repository [le_cod_datapreparation](https://doi.org/10.17605/OSF.IO/86PMY) outlines how this data file can be prepared.
 
 ### 2. scripts
 This folder contains the analysis files to replicate our empirical findings:
